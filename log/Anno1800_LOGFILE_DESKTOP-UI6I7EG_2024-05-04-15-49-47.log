@@ -1,0 +1,101 @@
+[15:49:47][4d54][   NOTICE] rdgc::CGameClient::Run: Developer build - for internal use only! [Build: 2020-11-24 18:52:31] Anno7 UPlayGoldmaster Win64 Release-Static v9.2.972600.3064 LandOfLions
+[15:49:47][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:\Users\john lee\Documents/Anno 1800/config/engine.ini failed with error 2: 系统找不到指定的文件。
+
+[15:49:47][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:\Users\john lee\Documents/Anno 1800/config/engine.ini failed with error 2: 系统找不到指定的文件。
+
+[15:50:10][4d54][   NOTICE] rd3d::COutputWindow::Create: Display 0: 2560 x 1080 resolution
+[15:50:10][4d54][   NOTICE] rd3d::COutputWindow::Create: Clamped resolution: 2560 x 1080
+[15:50:10][4d54][   NOTICE] rd3d::CAmdGpuServices::InitLibrary: Failed initializing AMD GPU Services (return code 4; this is fine for machines with a non-AMD graphics card)
+[15:50:11][4d54][   NOTICE] rd3d::CDevice3D11::Create: Created DirectX11 device with feature level 11.0
+[15:50:11][4d54][   NOTICE] rd3d::CDevice3D11::Create: Failed querying GPU infos
+[15:50:11][4d54][   NOTICE] rd3d::CDevice3D11::Create: Number of GPUs: 1
+[15:50:11][4d54][   NOTICE] rd3d::CShaderManager::InitDirectories: Effect file root dir: ''
+[15:50:11][4d54][   NOTICE] rd3d::CShaderManager::InitDirectories: Using precompiled shader path: 'C:/Users/john lee/Documents/Anno 1800/shaders/'
+[15:50:11][7b48][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/shaders/fx/terrain_tundra.fx' doesn't exist, can't compute file size!
+[15:50:15][7b48][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/shaders/fx/terrain_tundra.fx' doesn't exist, can't compute file size!
+[15:50:15][4d54][   NOTICE] rd3d::CSessionManager::CreateSession: Created session ID -1:'Default'
+[15:50:23][4d54][    ERROR] EalLogOutput: [EAL]: 	This platform has logs enabled.  Don't use it for shipping.
+[15:50:23][4d54][    ERROR] EalLogOutput: [EAL]: This platform has traces enabled.  Don't use it for shipping.
+[15:50:23][4d54][   NOTICE] rdgs::CAccountSettings::Reset: Language returned by UPlay: "en-US"
+[15:50:23][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/blacklists/chinese.txt failed with error 3: 系统找不到指定的路径。
+
+[15:50:23][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/blacklists/taiwanese.txt failed with error 3: 系统找不到指定的路径。
+
+[15:50:23][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/blacklists/japanese.txt failed with error 3: 系统找不到指定的路径。
+
+[15:50:23][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/blacklists/korean.txt failed with error 3: 系统找不到指定的路径。
+
+[15:50:30][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/config/engine/ambientsettings/local/dlc03_01_storm.xml failed with error 3: 系统找不到指定的路径。
+
+[15:50:34][4d54][    ERROR] GetWindowsUUID: Failed to initialize security. Error code = 0x-7ffefee7
+[15:50:35][4d54][   NOTICE] rdui::SendTelemetryMarker: UI-Flow: Start Waiting for RenderEngine
+[15:50:38][4d54][   NOTICE] rd3d::CDevice3D::Reset: BackBuffer size 2560x1080
+[15:50:38][4d54][   NOTICE] rd3d::CDevice3D::Reset: BackBuffer size 2544x1041
+[15:50:38][7b48][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/dlc06/graphics/props/terrain_props/grass/maps/grass_watered_10_diff.psd' doesn't exist, can't compute file size!
+[15:50:42][4d54][   NOTICE] rd3d::CRenderEngine::BeginFrame: All managers and renderers finished loading their most essential resources (all EssentialsLoaded() calls succeeded)
+[15:50:42][4d54][   NOTICE] rdui::SendTelemetryMarker: UI-Flow: RenderEngine Finished
+[15:50:42][7b18][   NOTICE] rdui::SendTelemetryMarker: UI-Flow: Start Waiting for SceneLoading
+[15:50:43][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_c233f628e3fcd284b4858707feee65bc.fxo failed with error 2: 系统找不到指定的文件。
+
+[15:50:43][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_f190077c9f919ad3e5a4c3121e85bca1.fxo failed with error 2: 系统找不到指定的文件。
+
+[15:50:45][7b48][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'test_data/graphics/dummy_jeichner/doedel/ai_123.cfg' doesn't exist, can't compute file size!
+[15:50:45][4d54][   NOTICE] rd3d::CDevice3D::Reset: BackBuffer size 2560x1080
+[15:51:03][77e8][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file rtt_-1 failed with error 2: 系统找不到指定的文件。
+
+[15:51:03][77e8][    ERROR] halo::CImageInfos::GetInfo: Could not load image rtt_-1. Please check the file!
+[15:51:04][77e8][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/ui/2kimages/main/icons/icon_warning failed with error 3: 系统找不到指定的路径。
+
+[15:51:04][77e8][    ERROR] halo::CImageInfos::GetInfo: Could not load image data/ui/2kimages/main/icons/icon_warning. Please check the file!
+[15:51:04][77e8][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/ui/2kimages/main/icons/icon_credits_2d_dark.pn failed with error 3: 系统找不到指定的路径。
+
+[15:51:04][77e8][    ERROR] halo::CImageInfos::GetInfo: Could not load image data/ui/2kimages/main/icons/icon_credits_2d_dark.pn. Please check the file!
+[15:51:04][4d54][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\dummy1920x1200.bk2'
+[15:51:04][4d54][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\dummy1920x1200.bk2'
+[15:51:04][7b18][   NOTICE] rdui::SendTelemetryMarker: UI-Flow: Start Waiting for Epilepsy Screen
+[15:51:05][7b18][   NOTICE] rdui::SendTelemetryMarker: UI-Flow: Start Waiting for Intro
+[15:51:05][4d54][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\deco_texture.bik'
+[15:51:05][4d54][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\deco_texture.bik'
+[15:51:05][4d54][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\deco_texture.bik'
+[15:51:05][4d54][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\intromovie_ubi_3sec_2k.bk2'
+[15:51:05][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_20bfa92a9fbe17561d4145de2cdd31db.fxo failed with error 2: 系统找不到指定的文件。
+
+[15:51:06][7b48][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/ui/placeholderimgages/3dobject.png' doesn't exist, can't compute file size!
+[15:51:11][7b18][   NOTICE] rdui::SendTelemetryMarker: UI-Flow: Startup Complete (A)
+[15:51:11][4d54][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\mainmenue_01.bk2'
+[15:51:11][4d54][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\mainmenue_01.bk2'
+[15:51:11][4d54][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\mainmenue_01.bk2'
+[15:51:11][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_0cc4562e271c15c3f4cf4b8516f57d3c.fxo failed with error 2: 系统找不到指定的文件。
+
+[15:51:11][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_3971997e7d48ffc59405b08f14762e86.fxo failed with error 2: 系统找不到指定的文件。
+
+[15:51:11][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_52130112c65e805d8cc78af9e28cbd25.fxo failed with error 2: 系统找不到指定的文件。
+
+[15:51:11][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_4fb6beb04b5b49a50df0e0f1864bad37.fxo failed with error 2: 系统找不到指定的文件。
+
+[15:51:11][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_9bd0fd247ce80f1181dfe94560c51dc7.fxo failed with error 2: 系统找不到指定的文件。
+
+[15:51:11][4d54][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\intromovie_ubi_3sec_2k.bk2'
+[15:51:11][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_1e73b4023a09ba8c71cea33eaa2d9083.fxo failed with error 2: 系统找不到指定的文件。
+
+[15:51:16][7b48][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/ui/2kimages/main/icons/icon_warning' doesn't exist, can't compute file size!
+[15:51:16][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_e2fd9dde2905d48e072de06cca65dbf6.fxo failed with error 2: 系统找不到指定的文件。
+
+[15:51:18][7b48][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'rtt_-1' doesn't exist, can't compute file size!
+[15:51:20][7b48][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/graphics/buildings/ornamental/cdlc03/food_service_02/maps/boulangerie_texturing_mask.tga' doesn't exist, can't compute file size!
+[15:51:21][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_4a1244e753c76896c72a17455381d41d_3e0e70309e218e8b09943c8428ea2e32.fxo failed with error 2: 系统找不到指定的文件。
+
+[15:51:21][7b48][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'test_data/graphics/dummy/martin/cosmetic_dlc/restaurant_table/maps/restaurant_table_metal.tga' doesn't exist, can't compute file size!
+[15:51:21][7b48][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'test_data/graphics/dummy/martin/cosmetic_dlc/restaurant_table/maps/restaurant_table_diff.tga' doesn't exist, can't compute file size!
+[15:51:21][7b48][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'test_data/graphics/dummy/martin/cosmetic_dlc/restaurant_table/maps/restaurant_table_norm.tga' doesn't exist, can't compute file size!
+[15:51:23][7b48][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/graphics/buildings/ornamental/cdlc03/playground/maps/playground_big_height.tga' doesn't exist, can't compute file size!
+[15:51:40][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_42082cbd8297b7ea850baff4f164e696.fxo failed with error 2: 系统找不到指定的文件。
+
+[15:51:40][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_a9f15dc57708fcea881d00c7f5d66bf9.fxo failed with error 2: 系统找不到指定的文件。
+
+[15:51:40][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_49f0bf9500e339b7f6bb87af14f2e950.fxo failed with error 2: 系统找不到指定的文件。
+
+[15:51:40][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_d50e14fb927c9e01f662c519701f6974.fxo failed with error 2: 系统找不到指定的文件。
+
+[15:51:40][4d54][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_d292fbf9b6f719ce97bc4da1815d191c.fxo failed with error 2: 系统找不到指定的文件。
+

@@ -1,0 +1,258 @@
+[02:50:16][55ac][   NOTICE] rdgc::CGameClient::Run: Developer build - for internal use only! [Build: 2020-11-24 18:52:31] Anno7 UPlayGoldmaster Win64 Release-Static v9.2.972600.3064 LandOfLions
+[02:50:40][55ac][   NOTICE] rd3d::COutputWindow::Create: Display 0: 2560 x 1080 resolution
+[02:50:40][55ac][   NOTICE] rd3d::COutputWindow::Create: Clamped resolution: 2560 x 1080
+[02:50:41][55ac][   NOTICE] rd3d::CAmdGpuServices::InitLibrary: Failed initializing AMD GPU Services (return code 4; this is fine for machines with a non-AMD graphics card)
+[02:50:41][55ac][   NOTICE] rd3d::CDevice3D11::Create: Created DirectX11 device with feature level 11.0
+[02:50:41][55ac][   NOTICE] rd3d::CDevice3D11::Create: Failed querying GPU infos
+[02:50:41][55ac][   NOTICE] rd3d::CDevice3D11::Create: Number of GPUs: 1
+[02:50:41][55ac][   NOTICE] rd3d::CShaderManager::InitDirectories: Effect file root dir: ''
+[02:50:41][55ac][   NOTICE] rd3d::CShaderManager::InitDirectories: Using precompiled shader path: 'C:/Users/john lee/Documents/Anno 1800/shaders/'
+[02:50:41][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/shaders/fx/terrain_tundra.fx' doesn't exist, can't compute file size!
+[02:50:48][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/shaders/fx/terrain_tundra.fx' doesn't exist, can't compute file size!
+[02:50:48][55ac][   NOTICE] rd3d::CSessionManager::CreateSession: Created session ID -1:'Default'
+[02:50:57][55ac][    ERROR] EalLogOutput: [EAL]: 	This platform has logs enabled.  Don't use it for shipping.
+[02:50:57][55ac][    ERROR] EalLogOutput: [EAL]: This platform has traces enabled.  Don't use it for shipping.
+[02:50:57][55ac][   NOTICE] rdgs::CAccountSettings::Reset: Language returned by UPlay: "en-US"
+[02:50:57][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/blacklists/chinese.txt failed with error 3: 系統找不到指定的路徑。
+
+[02:50:57][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/blacklists/taiwanese.txt failed with error 3: 系統找不到指定的路徑。
+
+[02:50:57][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/blacklists/japanese.txt failed with error 3: 系統找不到指定的路徑。
+
+[02:50:57][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/blacklists/korean.txt failed with error 3: 系統找不到指定的路徑。
+
+[02:51:06][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/config/engine/ambientsettings/local/dlc03_01_storm.xml failed with error 3: 系統找不到指定的路徑。
+
+[02:51:27][55ac][    ERROR] GetWindowsUUID: Failed to initialize security. Error code = 0x-7ffefee7
+[02:51:29][55ac][   NOTICE] rdui::SendTelemetryMarker: UI-Flow: Start Waiting for RenderEngine
+[02:51:33][55ac][   NOTICE] rd3d::CDevice3D::Reset: BackBuffer size 2560x1080
+[02:51:34][55ac][   NOTICE] rd3d::CRenderEngine::BeginFrame: All managers and renderers finished loading their most essential resources (all EssentialsLoaded() calls succeeded)
+[02:51:35][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/dlc06/graphics/props/terrain_props/grass/maps/grass_watered_10_diff.psd' doesn't exist, can't compute file size!
+[02:51:38][55ac][   NOTICE] rdui::SendTelemetryMarker: UI-Flow: RenderEngine Finished
+[02:51:38][5674][   NOTICE] rdui::SendTelemetryMarker: UI-Flow: Start Waiting for SceneLoading
+[02:51:39][55ac][   NOTICE] rd3d::CDevice3D::Reset: BackBuffer size 2544x1041
+[02:51:40][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'test_data/graphics/dummy_jeichner/doedel/ai_123.cfg' doesn't exist, can't compute file size!
+[02:52:05][64c8][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file rtt_-1 failed with error 2: 系統找不到指定的檔案。
+
+[02:52:05][64c8][    ERROR] halo::CImageInfos::GetInfo: Could not load image rtt_-1. Please check the file!
+[02:52:10][64c8][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/ui/2kimages/main/icons/icon_warning failed with error 3: 系統找不到指定的路徑。
+
+[02:52:10][64c8][    ERROR] halo::CImageInfos::GetInfo: Could not load image data/ui/2kimages/main/icons/icon_warning. Please check the file!
+[02:52:10][64c8][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/ui/2kimages/main/icons/icon_credits_2d_dark.pn failed with error 3: 系統找不到指定的路徑。
+
+[02:52:10][64c8][    ERROR] halo::CImageInfos::GetInfo: Could not load image data/ui/2kimages/main/icons/icon_credits_2d_dark.pn. Please check the file!
+[02:52:11][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\dummy1920x1200.bk2'
+[02:52:11][55ac][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\dummy1920x1200.bk2'
+[02:52:11][5674][   NOTICE] rdui::SendTelemetryMarker: UI-Flow: Start Waiting for Epilepsy Screen
+[02:52:11][5674][   NOTICE] rdui::SendTelemetryMarker: UI-Flow: Start Waiting for Intro
+[02:52:11][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\deco_texture.bik'
+[02:52:11][55ac][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\deco_texture.bik'
+[02:52:12][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\deco_texture.bik'
+[02:52:12][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\intromovie_ubi_3sec_2k.bk2'
+[02:52:17][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/ui/placeholderimgages/3dobject.png' doesn't exist, can't compute file size!
+[02:52:17][5674][   NOTICE] rdui::SendTelemetryMarker: UI-Flow: Startup Complete (A)
+[02:52:17][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\mainmenue_01.bk2'
+[02:52:17][55ac][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\mainmenue_01.bk2'
+[02:52:18][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\mainmenue_01.bk2'
+[02:52:19][55ac][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\intromovie_ubi_3sec_2k.bk2'
+[02:53:24][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/ui/2kimages/main/icons/icon_warning' doesn't exist, can't compute file size!
+[02:53:28][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'rtt_-1' doesn't exist, can't compute file size!
+[09:05:11][55ac][   NOTICE] rd3d::CDevice3D::Reset: BackBuffer size 2560x1080
+[09:05:13][55ac][   NOTICE] rd3d::CDevice3D::Reset: BackBuffer size 2544x1041
+[09:17:11][55ac][   NOTICE] rd3d::CDevice3D::Reset: BackBuffer size 2560x1080
+[09:17:13][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\mainmenue_01_transition.bk2'
+[09:17:13][55ac][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\mainmenue_01_transition.bk2'
+[09:17:13][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\mainmenue_01_transition.bk2'
+[09:17:14][55ac][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\mainmenue_01.bk2'
+[09:17:15][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\mainmenue_02.bk2'
+[09:17:15][55ac][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\mainmenue_02.bk2'
+[09:17:15][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\mainmenue_02.bk2'
+[09:17:15][55ac][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\mainmenue_01_transition.bk2'
+[09:17:25][64c8][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/ui/2kimages/main/assets16/bgr_main_screen_blur.png failed with error 3: 系統找不到指定的路徑。
+
+[09:17:25][64c8][    ERROR] halo::CImageInfos::GetInfo: Could not load image data/ui/2kimages/main/assets16/bgr_main_screen_blur.png. Please check the file!
+[09:17:25][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\ui_alpha\player_flag_waving_a.bk2'
+[09:17:25][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\ui_alpha\player_flag_waving_a.bk2'
+[09:17:25][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/ui/placeholderimgages/3dobject.png' doesn't exist, can't compute file size!
+[09:17:25][55ac][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\ui_alpha\player_flag_waving_a.bk2'
+[09:17:25][55ac][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\ui_alpha\player_flag_waving_a.bk2'
+[09:17:26][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\ui_alpha\player_flag_waving_a.bk2'
+[09:17:26][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\ui_alpha\player_flag_waving_a.bk2'
+[09:17:26][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_ce0610aacfd4d1206a25ace657946655.fxo failed with error 2: 系統找不到指定的檔案。
+
+[09:17:26][55ac][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\ui_alpha\player_flag_waving_a.bk2'
+[09:17:26][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/ui/2kimages/main/assets16/bgr_main_screen_blur.png' doesn't exist, can't compute file size!
+[09:17:27][55ac][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\ui_alpha\player_flag_waving_a.bk2'
+[09:17:51][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\ui_alpha\player_flag_waving_a.bk2'
+[09:17:51][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\ui_alpha\player_flag_waving_a.bk2'
+[09:17:51][55ac][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\ui_alpha\player_flag_waving_a.bk2'
+[09:17:51][55ac][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\ui_alpha\player_flag_waving_a.bk2'
+[09:17:51][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\ui_alpha\player_flag_waving_a.bk2'
+[09:17:55][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\ui_alpha\player_flag_waving_a.bk2'
+[09:17:58][55ac][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\ui_alpha\player_flag_waving_a.bk2'
+[09:18:01][55ac][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\ui_alpha\player_flag_waving_a.bk2'
+[09:18:20][55ac][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\mainmenue_02.bk2'
+[09:18:27][55ac][   NOTICE] rd3d::CRenderInterface::ProcessSessionCreate: Creating session 'Session Worldmap (180039)'
+[09:18:27][55ac][   NOTICE] rd3d::CSessionManager::CreateSession: Created session ID 1071:'Session Worldmap (180039)'
+[09:18:27][55ac][   NOTICE] rd3d::CRenderInterface::ProcessSessionCreate: Creating session 'Europe_Session (180023)'
+[09:18:27][55ac][   NOTICE] rd3d::CSessionManager::CreateSession: Created session ID 1072:'Europe_Session (180023)'
+[09:18:27][55ac][   NOTICE] rdgs::CSessionLoaderJob::PreSyncTick: Start loading 180039
+[09:18:27][5674][   NOTICE] rdgs::CSessionLoaderJob::StartLoading: add loading job to scheduler...
+[09:18:27][5674][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file test_data/graphics/placeholder/placeholder.ifo failed with error 3: 系統找不到指定的路徑。
+
+[09:18:27][55ac][   NOTICE] rdgs::CSessionLoaderJob::PublishSession: Finished loading 180039
+[09:18:28][55ac][   NOTICE] rdgs::CSessionLoaderJob::PreSyncTick: Start loading 180023
+[09:18:28][5674][   NOTICE] rdgs::CSessionLoaderJob::StartLoading: add loading job to scheduler...
+[09:18:28][2518][   NOTICE] rdgs::CSessionLoaderJob::Execute: Creating new session 
+[09:18:28][2518][   NOTICE] rdgs::CMapGenerator::CreateRandomMapInternal: MapGenerator Seed: 5220
+[09:18:28][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'test_data/graphics/placeholder/placeholder.cfg' doesn't exist, can't compute file size!
+[09:18:32][55ac][   NOTICE] rd3d::CRenderInterface::ProcessSessionCreateTerrain: Creating terrain for session 'Europe_Session (180023)'
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_l_12/moderate_l_12_river_01.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/community_island/community_island_river_01.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_l_01/moderate_l_01_river_01.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_l_07/moderate_l_07.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_m_03/moderate_m_03_river_01.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_l_08/moderate_l_08.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_m_06/moderate_m_06.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_l_04/moderate_l_04_river_01.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_m_04/moderate_m_04.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_l_10/moderate_l_10.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_l_02/moderate_l_02_river_01.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_m_07/moderate_m_07.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_m_08/moderate_m_08.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_m_09/moderate_m_09_river_01.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_3rdparty03_01/moderate_3rdparty03_01.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_3rdparty02_01/moderate_3rdparty02_01.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_3rdparty07_01/moderate_3rdparty07_01.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_3rdparty08_01/moderate_3rdparty08_01.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_s_08/moderate_s_08.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_s_05/moderate_s_05.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_s_12/moderate_s_12.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_s_02/moderate_s_02.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_d_08/moderate_d_08.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_d_07/moderate_d_07.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_d_02/moderate_d_02.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_d_15/moderate_d_15.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_d_09/moderate_d_09.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_d_14/moderate_d_14.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_d_03/moderate_d_03.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_d_12/moderate_d_12.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_d_11/moderate_d_11.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_d_13/moderate_d_13.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_d_01/moderate_d_01.a7m|rd3d.data')
+[09:18:32][55ac][   NOTICE] rd3d::CSession::LoadIsland: Starting island loading ('data/sessions/islands/pool/moderate/moderate_d_06/moderate_d_06.a7m|rd3d.data')
+[09:18:33][65b0][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:33][65b0][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:33][65b0][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:33][65b0][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:33][65b0][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:33][65b0][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:33][65b0][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:34][65b0][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:34][28c0][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:34][28c0][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:34][65b0][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:34][65b0][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:34][3348][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:34][3348][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:34][3348][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:34][3348][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:34][3348][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:34][3348][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:34][3348][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][65b0][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][28c0][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][689c][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][65b0][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][65b0][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][28c0][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][689c][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][689c][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][65b0][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][65b0][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][28c0][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][689c][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][689c][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][65b0][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][65b0][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][28c0][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][28c0][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][689c][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][689c][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][65b0][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][65b0][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][28c0][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][28c0][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][689c][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][689c][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][65b0][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][65b0][   NOTICE] rd3d::CSession::ProcessResource: Serializing island file...
+[09:18:35][28c0][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][689c][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][3348][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:35][65b0][   NOTICE] rd3d::CSession::ProcessResource: ...Finished island serialization
+[09:18:37][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/graphics/props/terrain_props/vegetation/trees/moderate/tree_moderate_06_var1.brp' doesn't exist, can't compute file size!
+[09:18:37][55ac][   NOTICE] rd3d::CSession::DoFinalizeLoading: Finalizing session...
+[09:18:37][55ac][   NOTICE] rd3d::CSession::DoFinalizeLoading: Session finalization finished
+[09:18:38][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_41ce9fd49cd5e594b7386120a47df840_dfa8ac5a8a17a49e111cfeabfd163151.fxo failed with error 2: 系統找不到指定的檔案。
+
+[09:18:38][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_41ce9fd49cd5e594b7386120a47df840_187f464779f4d171b3dea0237077cab5.fxo failed with error 2: 系統找不到指定的檔案。
+
+[09:18:47][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_41ce9fd49cd5e594b7386120a47df840_3d7167d39d591e46bff32862b38e71f5.fxo failed with error 2: 系統找不到指定的檔案。
+
+[09:18:47][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_41ce9fd49cd5e594b7386120a47df840_efbd5454e07c232362cb0f19871a39e4.fxo failed with error 2: 系統找不到指定的檔案。
+
+[09:18:47][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_41ce9fd49cd5e594b7386120a47df840_c90955dae8c8629e73a37e96ca0e1751.fxo failed with error 2: 系統找不到指定的檔案。
+
+[09:18:47][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_41ce9fd49cd5e594b7386120a47df840_10d8663ea5a991b61047367d0493275f.fxo failed with error 2: 系統找不到指定的檔案。
+
+[09:18:47][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_41ce9fd49cd5e594b7386120a47df840_e579ec65e2f87ca632b3cff1ba3609cd.fxo failed with error 2: 系統找不到指定的檔案。
+
+[09:18:50][2518][   NOTICE] rdgs::CSessionLoaderJob::Execute: Finished creating new session from 
+[09:18:52][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/graphics/units/inhabitants/production/production_generic_worker_01/maps/production_generic_worker_03_diff.psd' doesn't exist, can't compute file size!
+[09:18:53][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/graphics/buildings/public/logistic_01/maps/logistic_01_additional_ao.psd' doesn't exist, can't compute file size!
+[09:18:54][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/graphics/shared_textures/decals/ground_decal_impact_diff.psd' doesn't exist, can't compute file size!
+[09:18:54][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/graphics/buildings/public/service_04/maps/statue_diff.psd' doesn't exist, can't compute file size!
+[09:19:07][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/graphics/buildings/public/service_04/maps/statue_normal.psd' doesn't exist, can't compute file size!
+[09:19:07][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/graphics/shared_textures/decals/ground_decal_impact_height.psd' doesn't exist, can't compute file size!
+[09:19:07][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/graphics/shared_textures/decals/ground_decal_impact_norm.psd' doesn't exist, can't compute file size!
+[09:19:22][55ac][   NOTICE] rdgs::CSessionLoaderJob::PublishSession: Finished loading 180023
+[09:19:23][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_45919ded5ab43b881c4046479b63f0ab.fxo failed with error 2: 系統找不到指定的檔案。
+
+[09:19:27][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_58ca3c910c52a9ec58595cf4104d6edc.fxo failed with error 2: 系統找不到指定的檔案。
+
+[09:19:40][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/dlc03/graphics/buildings/residence/residence_colony03_tier02_02/maps/residence_colony01_tier01_03mask.psd' doesn't exist, can't compute file size!
+[09:19:53][5d10][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/dlc06/graphics/buildings/public/logistic_colony02_02/maps/logistics_colony01_02_ground_height.psd' doesn't exist, can't compute file size!
+[09:20:00][55ac][   NOTICE] rd3d::CLowPolyData::Add: Unexpected material index 4 in 'data/graphics/buildings/residence/residence_colony01_tier02_estate02/rdm/residence_colony01_tier02_estate02_lod4.rdm'. Owner's material list has only 4 elements!
+[09:21:09][55ac][   NOTICE] rd3d::CDevice3D::Reset: BackBuffer size 2544x1041
+[09:39:21][55ac][   NOTICE] rd3d::CDevice3D::Reset: BackBuffer size 2560x1080
+[09:39:27][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_b72ee9d520c25e09b8cc650b13085ce9_51d88e8bac6c7734f301d1ef0d0dc2f9.fxo failed with error 2: 系統找不到指定的檔案。
+
+[09:39:36][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_b72ee9d520c25e09b8cc650b13085ce9_63ddf97acc98f9cdfda01f388e352875.fxo failed with error 2: 系統找不到指定的檔案。
+
+[09:41:26][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_b72ee9d520c25e09b8cc650b13085ce9_09dd7826c6f4ec60a70e1ef8a9c64a21.fxo failed with error 2: 系統找不到指定的檔案。
+
+[09:41:53][55ac][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\ui_alpha\main_banner\mainbanner_farmers_a.bk2'
+[09:42:05][55ac][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\ui_alpha\main_banner\mainbanner_farmers_a.bk2'
+[09:42:54][55ac][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file C:/Users/john lee/Documents/Anno 1800/shaders/precompiled/c6704db161d173b669c65bf89c0cac8d_8968c53edda9b7561aca6e5e7893fe04_fddbc0c440d2af5a91918f81dfa4bf3f.fxo failed with error 2: 系統找不到指定的檔案。
+
+[09:46:01][55ac][   NOTICE] rd3d::CDevice3D::Reset: BackBuffer size 2544x1041
+[09:46:55][55ac][   NOTICE] rd3d::CDevice3D::Reset: BackBuffer size 2560x1080
