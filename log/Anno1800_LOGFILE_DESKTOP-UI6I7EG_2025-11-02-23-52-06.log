@@ -1,0 +1,57 @@
+[23:52:06][3030][   NOTICE] rdgc::CGameClient::Run: Developer build - for internal use only! [Build: 2020-11-24 18:52:31] Anno7 UPlayGoldmaster Win64 Release-Static v9.2.972600.3064 LandOfLions
+[23:52:15][3030][   NOTICE] rd3d::COutputWindow::Create: Display 0: 1920 x 1080 resolution
+[23:52:15][3030][   NOTICE] rd3d::COutputWindow::Create: Clamped resolution: 1920 x 1080
+[23:52:15][3030][   NOTICE] rd3d::CAmdGpuServices::InitLibrary: Successfully initialized AMD AGS
+[23:52:15][3030][   NOTICE] rd3d::CDevice3D11::Create: Created DirectX11 device with feature level 11.0
+[23:52:15][3030][   NOTICE] rd3d::CDevice3D11::Create: Failed querying GPU infos
+[23:52:15][3030][   NOTICE] rd3d::CDevice3D11::Create: Number of GPUs: 1
+[23:52:16][3030][   NOTICE] rd3d::CShaderManager::InitDirectories: Effect file root dir: ''
+[23:52:16][3030][   NOTICE] rd3d::CShaderManager::InitDirectories: Using precompiled shader path: 'C:/Users/john lee/Documents/Anno 1800/shaders/'
+[23:52:16][3f40][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/shaders/fx/terrain_tundra.fx' doesn't exist, can't compute file size!
+[23:52:19][3f40][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/shaders/fx/terrain_tundra.fx' doesn't exist, can't compute file size!
+[23:52:19][3030][   NOTICE] rd3d::CSessionManager::CreateSession: Created session ID -1:'Default'
+[23:52:26][3030][    ERROR] EalLogOutput: [EAL]: 	This platform has logs enabled.  Don't use it for shipping.
+[23:52:26][3030][    ERROR] EalLogOutput: [EAL]: This platform has traces enabled.  Don't use it for shipping.
+[23:52:26][3030][   NOTICE] rdgs::CAccountSettings::Reset: Language returned by UPlay: "en-US"
+[23:52:26][3030][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/blacklists/chinese.txt failed with error 3: 系統找不到指定的路徑。
+
+[23:52:26][3030][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/blacklists/taiwanese.txt failed with error 3: 系統找不到指定的路徑。
+
+[23:52:26][3030][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/blacklists/japanese.txt failed with error 3: 系統找不到指定的路徑。
+
+[23:52:26][3030][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/blacklists/korean.txt failed with error 3: 系統找不到指定的路徑。
+
+[23:52:30][3030][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/config/engine/ambientsettings/local/dlc03_01_storm.xml failed with error 3: 系統找不到指定的路徑。
+
+[23:52:39][3030][    ERROR] GetWindowsUUID: Failed to initialize security. Error code = 0x-7ffefee7
+[23:52:41][3030][   NOTICE] rdui::SendTelemetryMarker: UI-Flow: Start Waiting for RenderEngine
+[23:52:44][3030][   NOTICE] rd3d::CDevice3D::Reset: BackBuffer size 2560x1080
+[23:52:44][3030][   NOTICE] rd3d::CDevice3D::Reset: BackBuffer size 1920x1080
+[23:52:44][3f40][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/dlc06/graphics/props/terrain_props/grass/maps/grass_watered_10_diff.psd' doesn't exist, can't compute file size!
+[23:52:47][3030][   NOTICE] rd3d::CRenderEngine::BeginFrame: All managers and renderers finished loading their most essential resources (all EssentialsLoaded() calls succeeded)
+[23:52:47][3030][   NOTICE] rdui::SendTelemetryMarker: UI-Flow: RenderEngine Finished
+[23:52:47][16c4][   NOTICE] rdui::SendTelemetryMarker: UI-Flow: Start Waiting for SceneLoading
+[23:52:48][3f40][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'test_data/graphics/dummy_jeichner/doedel/ai_123.cfg' doesn't exist, can't compute file size!
+[23:52:58][4238][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file rtt_-1 failed with error 2: 系統找不到指定的檔案。
+
+[23:52:58][4238][    ERROR] halo::CImageInfos::GetInfo: Could not load image rtt_-1. Please check the file!
+[23:53:02][4238][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/ui/2kimages/main/icons/icon_warning failed with error 3: 系統找不到指定的路徑。
+
+[23:53:02][4238][    ERROR] halo::CImageInfos::GetInfo: Could not load image data/ui/2kimages/main/icons/icon_warning. Please check the file!
+[23:53:02][4238][    ERROR] rdsdk::CLogger::TraceLastError: Failed to open file data/ui/2kimages/main/icons/icon_credits_2d_dark.pn failed with error 3: 系統找不到指定的路徑。
+
+[23:53:02][4238][    ERROR] halo::CImageInfos::GetInfo: Could not load image data/ui/2kimages/main/icons/icon_credits_2d_dark.pn. Please check the file!
+[23:53:02][3030][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\dummy1920x1200.bk2'
+[23:53:02][3030][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\dummy1920x1200.bk2'
+[23:53:02][16c4][   NOTICE] rdui::SendTelemetryMarker: UI-Flow: Start Waiting for Epilepsy Screen
+[23:53:04][16c4][   NOTICE] rdui::SendTelemetryMarker: UI-Flow: Start Waiting for Intro
+[23:53:04][3030][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\deco_texture.bik'
+[23:53:04][3030][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\deco_texture.bik'
+[23:53:04][3030][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\deco_texture.bik'
+[23:53:04][3030][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\intromovie_ubi_3sec_2k.bk2'
+[23:53:06][3f40][    ERROR] rdsdk::CResourceHandler::OnIdle: File 'data/ui/placeholderimgages/3dobject.png' doesn't exist, can't compute file size!
+[23:53:10][16c4][   NOTICE] rdui::SendTelemetryMarker: UI-Flow: Startup Complete (A)
+[23:53:10][3030][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\mainmenue_01.bk2'
+[23:53:10][3030][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\mainmenue_01.bk2'
+[23:53:10][3030][   NOTICE] rd3d::CBinkMovie::Wakeup: Waking up movie 'data\ui\video\mainmenue_01.bk2'
+[23:53:11][3030][   NOTICE] rd3d::CBinkMovie::Suspend: Suspending movie 'data\ui\video\intromovie_ubi_3sec_2k.bk2'
